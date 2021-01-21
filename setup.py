@@ -9,8 +9,8 @@ setup(
     author="Caitlin Anna Kermen",
     author_email="caitlinkermen@gmail.com",
     description="my first python environment",
-    #long_description=long_description,
-    #long_description_content_type="text/markdown", # required if using a md file for long desc
+    long_description=long_description,
+    long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
     url="https://github.com/caitlinkermen/lambda_dspt9_test1",
     #keywords="",
